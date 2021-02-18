@@ -1,0 +1,27 @@
+{
+  "name": "login-npm-package",
+  "version": "0.2.4",
+  "description": "Login npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aceblock",
+    "login",
+    "npm",
+    "package"
+  ],
+  "author": "Gregor Sajovic",
+  "license": "ISC",
+  "dependencies": {
+    "@cef-ebsi/did-auth": "0.0.10",
+    "@hapi/joi": "^17.1.1",
+    "ajv": "^6.12.3",
+    "cookie-parser": "^1.4.5",
+    "ipfs-http-client": "^40.2.1",
+    "jose": "^2.0.3",
+    "qrcode-generator": "^1.4.4",
+    "web3": "^1.3.0"
+  }
+}
