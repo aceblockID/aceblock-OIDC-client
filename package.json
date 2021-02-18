@@ -1,13 +1,15 @@
 {
-  "name": "login-npm-package",
-  "version": "0.2.4",
-  "description": "Login npm package",
+  "name": "aceblock OIDC client",
+  "version": "0.1.0",
+  "description": "Aceblock OIDC client login npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "Aceblock",
+    "OIDC",
+    "client",
     "login",
     "npm",
     "package"
