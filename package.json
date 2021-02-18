@@ -1,5 +1,5 @@
 {
-  "name": "aceblock OIDC client",
+  "name": "aceblock-OIDC-client",
   "version": "0.1.0",
   "description": "Aceblock OIDC client login npm package",
   "main": "index.js",
