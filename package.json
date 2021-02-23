@@ -1,6 +1,6 @@
 {
   "name": "aceblock-oidc-client",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Aceblock OIDC client login npm package",
   "main": "index.js",
   "scripts": {
