@@ -1,5 +1,5 @@
 {
-  "name": "aceblock-OIDC-client",
+  "name": "aceblock-oidc-client",
   "version": "0.1.0",
   "description": "Aceblock OIDC client login npm package",
   "main": "index.js",
@@ -17,7 +17,7 @@
   "author": "Gregor Sajovic",
   "license": "ISC",
   "dependencies": {
-    "@cef-ebsi/did-auth": "0.0.10",
+    "@cef-ebsi/did-auth": "0.0.11",
     "@hapi/joi": "^17.1.1",
     "ajv": "^6.12.3",
     "cookie-parser": "^1.4.5",
