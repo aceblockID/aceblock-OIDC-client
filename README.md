@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aceblockID/aceblock-OIDC-client/blob/main/images">
-    <img src="/aceblock_logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/aceblockID/aceblock-OIDC-client">
+    <img src="images/aceblock_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Aceblock OIDC client npm package</h3>
