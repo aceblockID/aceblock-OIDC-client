@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/aceblockID/aceblock-OIDC-client/images">
+  <a href="https://github.com/aceblockID/aceblock-OIDC-client/blob/main/images/">
     <img src="/aceblock_logo.png" alt="Logo" width="80" height="80">
   </a>
 
